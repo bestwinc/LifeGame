@@ -17,6 +17,7 @@ public class GameView extends JPanel implements MouseListener, MouseMotionListen
 
 	private long interval = 100;
 
+	
 	private int row;
 	private int col;
 

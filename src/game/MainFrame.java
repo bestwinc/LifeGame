@@ -15,6 +15,7 @@ public class MainFrame extends JFrame {
 	/**
 	 * @param args
 	 */
+	
 	public static void main(final String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {

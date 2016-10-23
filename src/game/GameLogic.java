@@ -1,7 +1,7 @@
 package game;
 
 /**
- * @author sukai
+ * @author 
  */
 public class GameLogic {
 

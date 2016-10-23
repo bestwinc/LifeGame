@@ -60,7 +60,7 @@ public class GameLogic {
 				try {
 					count += map[i - 1][j - 1];
 				} catch (Exception e) {
-					e.printStackTrace();
+
 				}
 				try {
 					count += map[i + 1][j + 1];
@@ -76,8 +76,8 @@ public class GameLogic {
 				
 				try {
 					count += map[i + 1][j - 1];
-				} catch (ArrayIndexOutOfBoundsException e) {
-					e.getCause();
+				} catch (Exception e) {
+					
 				}
 				
 				

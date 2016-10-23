@@ -34,6 +34,7 @@ public class GameLogic {
 		this.map = map;
 		
 		
+		
 		tempMap = new int[row][col];
 		this.row = map.length;
 		this.col = map[0].length;
